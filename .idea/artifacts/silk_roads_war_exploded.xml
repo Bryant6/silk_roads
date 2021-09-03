@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="silk_roads:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/silk_roads_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="silk_roads/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="silk_roads" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
